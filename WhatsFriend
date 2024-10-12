@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>What's Friend - Official WhatsApp Group by Guardian Federation</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap');
+        
+        body {
+            font-family: 'Poppins', sans-serif;
+            background: linear-gradient(135deg, #2ecc71, #27ae60);
+            color: #fff;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 40px 20px;
+        }
+        h1, h2, h3 {
+            text-align: center;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.1);
+        }
+        h1 {
+            font-size: 3em;
+            margin-bottom: 10px;
+        }
+        h2 {
+            font-size: 1.5em;
+            font-weight: 300;
+            margin-top: 0;
+        }
+        h3 {
+            font-size: 1.2em;
+            margin-top: 20px;
+        }
+        .card {
+            background: rgba(255,255,255,0.1);
+            border-radius: 15px;
+            padding: 20px;
+            margin-top: 30px;
+            backdrop-filter: blur(10px);
+            box-shadow: 0 8px 32px rgba(0,0,0,0.1);
+        }
+        .team-member {
+            margin-bottom: 20px;
+            padding: 10px;
+            background: rgba(255,255,255,0.1);
+            border-radius: 10px;
+            transition: all 0.3s ease;
+        }
+        .team-member:hover {
+            transform: translateX(5px);
+            box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+        }
+        .team-title {
+            font-weight: 600;
+            font-size: 1.1em;
+            margin-bottom: 5px;
+            display: block;
+        }
+        .highlight {
+            background-color: rgba(255, 255, 0, 0.3);
+            padding: 2px 5px;
+            border-radius: 3px;
+        }
+        .small-text {
+            font-size: 0.8em;
+            opacity: 0.8;
+            display: block;
+            margin-left: 10px;
+        }
+        p {
+            text-align: justify;
+        }
+        footer {
+            text-align: center;
+            margin-top: 50px;
+            font-size: 0.9em;
+            opacity: 0.8;
+        }
+        .timeline {
+            text-align: center;
+            font-weight: bold;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Welcome to WhatsFriend!</h1>
+        <h2>Official WhatsApp Group by Guardian Federation</h2>
+        <h3>A Nexus of Brilliance in Royal Education</h3>
+        
+        <div class="card">
+            <div class="timeline">Group Lifetime: 2025 - 2030</div>
+        </div>
+        
+        <div class="card">
+            <p>Our team:</p>
+            <div class="team-member">
+                <span class="team-title"><span class="highlight">Administer</span></span>
+                <span class="small-text">Guardian Federation</span>
+            </div>
+            <div class="team-member">
+                <span class="team-title"><span class="highlight">Active Moderator</span></span>
+                <span class="small-text">FakeChicken</span>
+            </div>
+            <div class="team-member">
+                <span class="team-title"><span class="highlight">Moderator</span></span>
+                <span class="small-text">Mahi</span>
+                <span class="small-text">Jarif</span>
+            </div>
+            <div class="team-member">
+                <span class="team-title"><span class="highlight">Guiding Star</span></span>
+                <span class="small-text">Tori</span>
+                <span class="small-text">N°</span>
+                <span class="small-text">N°</span>
+            </div>
+            <div class="team-member">
+                <span class="team-title">Friend</span>
+                <span class="small-text">Apurbo</span>
+                <span class="small-text">Abdul Rahman</span>
+                <span class="small-text">N°</span>
+                <span class="small-text">N°</span>
+                <span class="small-text">N°</span>
+            </div>
+        </div>
+        
+        <div class="card">
+            <p>Within this ethereal realm, we weave the intricate tapestry of camaraderie across the digital expanse. Here, thoughts crystallize into constellations of wisdom, and words flow like stardust through the vastness of our shared experiences.</p>
+            <p>Engage in dialogues that transcend the ordinary, where each conversation is a journey through the cosmos of human connection. Share your unique perspectives, ignite discussions that illuminate the mind, and forge bonds that withstand the test of time and space.</p>
+            <p>Remember: In this grand theater of ideas, every voice resonates with significance. Your thoughts are the brushstrokes painting the masterpiece of our collective consciousness.</p>
+            <p>Join us in this grand odyssey of intellectual exploration and emotional resonance. Together, we'll chart new territories of understanding, one message at a time, creating a legacy of friendship that echoes through the corridors of our digital existence.</p>
+        </div>
+        
+        <div class="card">
+            <p><em>What's Friend! - Where every interaction is a step towards enlightenment, and every member is a star in the constellation of knowledge.</em></p>
+        </div>
+        
+        <footer>
+            Royal Education 2025 | WhatsFriend | Guardian Federation Organization
+        </footer>
+    </div>
+</body>
+</html>
